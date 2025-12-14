@@ -116,7 +116,7 @@ Installation
 
 Clone the Repo:
 
-git clone ([https://github.com/your-username/tactile-drive.git](https://github.com/Faizan-Nexus/TactileDrive-Wireless-Touch-Controlled-Robot/edit/main/README.md))
+git clone ([[https://github.com/your-username/tactile-drive.git](https://github.com/Faizan-Nexus/TactileDrive-Wireless-Touch-Controlled-Robot/edit/main/README.md)](https://github.com/Faizan-Nexus/TactileDrive-Wireless-Touch-Controlled-Robot/edit/main))
 
 
 Flash the Remote:
