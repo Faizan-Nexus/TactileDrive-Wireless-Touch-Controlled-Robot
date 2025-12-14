@@ -1,8 +1,8 @@
-TactileDrive: Wireless Touch-Controlled Robot 🤖👆
+TactileDrive: Wireless Touch-Controlled Robot 
 
 TactileDrive is a wireless robotics project that eliminates complex joysticks and mobile apps. Instead, it uses a custom-built physical interface with Piezo touch sensors to navigate a 4WD robot car via Bluetooth.
 
-📖 Table of Contents
+Table of Contents
 
 Overview
 
@@ -18,7 +18,7 @@ Team
 
 License
 
-🔭 Overview
+ Overview
 
 This project establishes a low-latency Master-Slave Bluetooth connection between two Arduino units.
 
@@ -28,7 +28,7 @@ The Robot: Receives character commands and drives DC motors accordingly.
 
 Developed by students at Sukkur IBA University under the supervision of Dr. Ghulam Abbas Lashari.
 
-✨ Features
+ Features
 
 Zero-App Control: No smartphone required; runs on independent hardware.
 
@@ -38,7 +38,7 @@ Intuitive Mapping: Natural directional mapping (Front, Back, Left, Right).
 
 Robust Connectivity: Auto-pairing HC-05 modules.
 
-🛠 Hardware Required
+Hardware Required
 
 Component
 
@@ -88,7 +88,7 @@ Chassis & Wheels
 
 Robot body
 
-🔌 Circuit & Wiring
+Circuit & Wiring
 
 1. Remote (Transmitter)
 
@@ -112,7 +112,7 @@ ENA/ENB $\to$ Pins 6 & 9 (PWM)
 
 IN1/IN2/IN3/IN4 $\to$ Pins 2, 3, 4, 5
 
-💻 Installation
+Installation
 
 Clone the Repo:
 
@@ -135,7 +135,7 @@ Pairing:
 
 Ensure your HC-05 modules are configured (Master bound to Slave address) using AT commands before running the main code.
 
-👥 Team
+Team
 
 Faizan
 
